@@ -1,3 +1,6 @@
+# Para acessar o meu site click neste link abaixo:
+(https://filme-poster.netlify.app)  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
